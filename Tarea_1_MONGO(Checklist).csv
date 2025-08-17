@@ -1,0 +1,17 @@
+﻿Paso,Actividad,Hecho (Sí/No),Observaciones
+1,Instalar MongoDB y MongoDB Compass (verificar que Compass abre).,.,REALIZADO
+2,Abrir el archivo .csv proporcionado. Convertirlo a Excel (.xlsx).,.,REALIZADO
+3,Ordenar/ajustar columnas en Excel según criterio del estudiante.,.,REALIZADO
+4,Guardar y cerrar el .xlsx. (Conservar también el .csv original).,.,REALIZADO
+5,Abrir MongoDB Compass y conectar a mongodb://localhost:27017.,.,REALIZADO
+6,Crear base de datos 'institucion' con colección temporal 'tmp' (se borra luego).,.,REALIZADO
+7,Importar datos del .csv en una colección (por ejemplo 'importados').,.,REALIZADO
+8,Crear dos colecciones: 'docentes' y 'estudiantes'.,.,REALIZADO
+9,"Insertar 6 documentos en total: (2) con 3 campos, (2) con 4 campos y (2) con 5 campos.",.,REALIZADO
+10,Exportar/descargar todas las colecciones en JSON (Full Collection).,.,REALIZADO
+11,"Realizar consultas simples por 'canton' Cuenca, Quito y Regimen_Escolar Costa - Sierra.",.,REALIZADO
+12,Exportar resultados filtrados en JSON y CSV,.,REALIZADO
+13,Subir todos los archivos generados (JSON/CSV/XLSX) al repositorio GitHub - con una breve descripción - PRIMERA PRACTICA DE MONGO,.,REALIZADO
+,,,
+,,,
+,Crear todo en un archivo  para las evidencia y el Cheklist  en pdf y subirlo al NEO CON EL ENLACE DEL GIT HUB,,

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "68a2271de24c4cc87b190408"
+  },
+  "Acceso Permitido": "Docentes",
+  "Horario": "08h00 a 13h00",
+  "Capacidad Maxima": "15 personas",
+  "Sala de Atencion": 2,
+  "Bibliotecas Disponibles": 3
+},
+{
+  "_id": {
+    "$oid": "68a22a08e24c4cc87b19041f"
+  },
+  "Acceso Permitido": "Estudiantes",
+  "Horario": "08h00 a 13h00",
+  "Capacidad Maxima": "5 personas",
+  "Sala de Atencion": 2,
+  "Bibliotecas Disponibles": 3
+}]

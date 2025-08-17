@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68a22469e24c4cc87b1903fe"
+  },
+  "Nivel": "2do",
+  "Gerente": "Luis Murillo",
+  "Horario": "08:00am",
+  "Vicepresidente": "Mario Calderon"
+},
+{
+  "_id": {
+    "$oid": "68a22992e24c4cc87b19041a"
+  },
+  "Nivel": "2do",
+  "Contador": "Fernando Benavidez",
+  "Horario": "10:00am a 13:00pm",
+  "Jefe": "Daniela Montes"
+}]
